@@ -24,15 +24,15 @@ body {
     color: goldenrod!important;
 }
 
-.site-content{
+.sombrero{
     background-image: url("Stock/Sombrero.jpg");
     background-attachment: scroll;
     background-size: cover;
 }
-.home-page{
+.chucho{
+    background-color: black;
     background-image: url("Stock\20190704_165821.jpg");
-    background-attachment: scroll;
-    background-size: cover; 
+    background-size: cover;
 }
 .site-title, .site-desk{
     color:rgb(170, 26, 26);
