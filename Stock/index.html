@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Mapping Colombian Emblematic Memories</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/6918b0caae.js" crossorigin="anonymous"></script>
+    <link href="Style.css" type="text/css" rel="stylesheet">
+
+    <style>
+        h1 {
+        text-align: center;
+      }
+    </style>
+   <script src='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js'></script>
+   <link href='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css' rel='stylesheet' />
+</head>
+<body>
+    <!-- here I am coding the header items and features in the visible sections of the webpage -->
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+            <a href="index2.html" class="navbar-brand">Mapping Colombian <span style="color:goldenrod">Emblematic Memories</span></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMenu"
+                    aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle Navigation">
+            </button>
+
+            <div class="collapse navbar-collapse"></div>
+            <div class="collapse navbar-collapse" id="navbarMenu">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a href="#" class="nav-link">The sites</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a href="index3.html" class="nav-link">The emblematic memories</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a href="#" class="nav-link">Contact Us</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a href="#" class="nav-link">About Us</a>
+                    </li>
+
+                </ul>
+                
+            </div>
+        </nav>
+    </header>
+     <!-- here I am coding the header items and features in the visible sections of the webpages of the project -->
+    <main>
+    <!-- here I am coding the unique items of this webpage -->
+
+    <article>
+        <div class="container-fluid p-0">
+            <div class="site-content">
+                <div class="d-flex justify-content-center">
+                    <div class="d-flex flex-column">
+                        <h1 class="site-title">The Sites of Memory</h1>
+                            <div id="paper">
+                                <div id="pattern">
+                                    <div id="content">
+                        <p class="site-desc">Sites of memory are, more than anything else, places with high symbolic value for specific communities. In Colombia, a site of memory usually triggers images of violence tied to what different political and social actors call the Colombian civil war, the Colombian inner armed conflict, or the Colombian war against terror. Therefore, the Colombian sites of memory are highly relevant elements to understand Colombian politics and its relationship with violence.</p>
+                        <p class="site-desc">The Colombian sites of memory constitute infrastructures of memory with the ability to facilitate or impede the circulation of past experience. In other words, those physical places help to reinforce particular interpretations of the past while they reject others. The map I am showing is the first attempt to portray sites of memory with conflicting narratives of the past in the same place. Using geographic data from a network of survivor’s organizations and the Colombian National Police, this map depicts competing infrastructures of memory valuable to understand Colombian politics. </p>
+                        <p class="site-desc">The map color codes different types of memory narratives. The <span style="color:rgb(238, 218, 42)">yellow color</span> represents dissident memories, <span style="color: green;">the green color</span> represents heroic memories, and the <span style="color: red;">red color</span> represents between-fires memories.  </p>
+                                        </div>
+                                    </div>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </article>
+
+ <aside>
+        <div class="container-fluid p-0">
+            <div class="container">
+                <div id='map' style='width: 1300px; height: 600px;'></div>
+                <script>
+                    mapboxgl.accessToken = 'pk.eyJ1Ijoicmljb25vZ3UiLCJhIjoiY2tqaW00aHRpM3hueDJ4cDk3anUyM212dyJ9.gRNG0VCNG0LfVgciQtC07A';
+                    var map = new mapboxgl.Map({
+                    container: 'map', // container ID
+                    style: 'mapbox://styles/riconogu/cklli56880z4x17s4764kkeu3', // style URL
+                    center: [ -74.07656194513632, 4.619283240355148], // starting position [lng, lat]
+                    zoom: 4.5 // starting zoom
+                    });
+                </script>        
+            </div>
+        </div>
+</aside>
+    </main>
+    <!-- here I am coding the unique items of this webpage -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+</body>
+</html>
