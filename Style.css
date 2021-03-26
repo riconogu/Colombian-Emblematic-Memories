@@ -31,7 +31,9 @@ body {
 }
 .chucho{
     background-image: url("
-Colombian-Emblematic-Memories/Stock/20190704_165821.jpg ")
+Colombian-Emblematic-Memories/Stock/20190704_165821.jpg ");
+    background-attachment: scroll;
+    background-size: cover;    
 }
 .site-title, .site-desk{
     color:rgb(170, 26, 26);
