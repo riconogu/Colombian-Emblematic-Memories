@@ -31,7 +31,11 @@ body {
 }
 .chucho{
     background-color: black;
+<<<<<<< HEAD
     }
+=======
+}
+>>>>>>> 58171431485d832a2fed5280738658fa3ddeb905
 .site-title, .site-desk{
     color:rgb(170, 26, 26);
     font-family: 'Courier New', Courier, monospace;
