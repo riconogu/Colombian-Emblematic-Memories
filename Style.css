@@ -88,5 +88,15 @@ body {
     letter-spacing: 1px;
     word-spacing: 5px;
   }
-  
-  
+  .dissident{
+      color: yellow;
+      background-color: black;
+  }  
+  .heroic{
+      color: green;
+      background-color: black;
+  }
+  .between-fires{
+      color: red;
+      background-color: black;
+  }
