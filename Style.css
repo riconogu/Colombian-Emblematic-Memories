@@ -31,9 +31,7 @@ body {
 }
 .chucho{
     background-color: black;
-    background-image: url("Stock\20190704_165821.jpg");
-    background-size: cover;
-}
+    }
 .site-title, .site-desk{
     color:rgb(170, 26, 26);
     font-family: 'Courier New', Courier, monospace;
