@@ -6,10 +6,19 @@ body {
     margin: 0%;
     font-family: 'Robot Mono';
 }
+
+p {
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+}
 .navbar-brand{
     font-family: 'Robot Mono';
     font-size: 35px;
     color: rgb(170, 26, 26) !important;  
+    display: block;
 
 }
 
@@ -38,6 +47,7 @@ body {
     color:rgb(170, 26, 26);
     font-family: 'Robot Mono';
     background-color: black;
+    display: block;
 
 }
 .site-title{
@@ -52,7 +62,7 @@ body {
     /* styling paper */
 #paper {
     width: 900px;
-    height: 580px;
+    height: 640px;
     position: relative;
     margin: 20px auto;
     padding-top: 40px;
