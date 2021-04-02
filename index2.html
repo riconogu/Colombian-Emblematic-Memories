@@ -84,6 +84,35 @@
                     center: [ -74.07656194513632, 4.619283240355148], // starting position [lng, lat]
                     zoom: 4.5 // starting zoom
                     });
+                    // CONTROLS
+
+                    // Add zoom and rotation controls to the map.
+                    map.addControl(new mapboxgl.NavigationControl());
+
+                    // POP UP STUFF
+                    map.on('click', function (e) {
+                    var features = map.queryRenderedFeatures(e.point, {
+                    layers: ['between-fires-memories'] // replace this with the name of the layer
+                    });
+                    
+                    if (!features.length) {
+                    return;
+                    }
+                    
+                    var feature = features[0];
+                    
+                    var popup = new mapboxgl.Popup({ offset: [0, -15] })
+                    .setLngLat(feature.geometry.coordinates)
+                    .setHTML(
+                    '<h3>' +
+                    feature.properties.title +
+                    '</h3><p>' +
+                    feature.properties.description +
+                    '</p>'
+                    )
+                    .setLngLat(feature.geometry.coordinates)
+                    .addTo(map);
+});
                 </script>        
             </div>
         </div>

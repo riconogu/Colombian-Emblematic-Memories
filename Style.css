@@ -31,6 +31,9 @@ h1{
 .row p{
     color: whitesmoke;  
 }
+.row img{
+    border-radius: 70%;
+}
 
 h2{
     color: rgb(170, 26, 26);
