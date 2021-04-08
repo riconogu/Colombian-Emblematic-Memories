@@ -1,0 +1,395 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.698088,10.876711 ]
+    },
+    "properties": {
+    "site":"Centro Integral de Formacion y Fortalecimiento Espiritual y Cultural Wiwa",
+    "location":"Location: Sierra Nevada, Magdalena",
+    "type":"Type of site: Representative spot",
+    "identity":"Identity: Indigenous",
+    "year":"Reported year of origin: 2013",
+    "link":"Further information: http://redmemoriacolombia.org/site/node/17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.265556,10.465944 ]
+    },
+    "properties": {
+    "site":"Centro de Memoria del Conflicto",
+    "location":"Location: Valledupar, Cesar",
+    "type":"Type of site: Representative spot",
+    "identity":"Identity: Peasant",
+    "year":"Reported year of origin: 2011",
+    "link":"Further information: http://memoriasdelconflicto.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.507437,10.39659 ]
+    },
+    "properties": {
+    "site":"Quiosco de la Memoria",
+    "location":"Location: Las Brisas, Bolivar",
+    "type":"Type of site: Testimony spot",
+    "identity":"Identity: Peasant",
+    "year":"Reported year of origin: ",
+    "link":"Further information: http://redmemoriacolombia.org/site/node/14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.519982,9.741969 ]
+    },
+    "properties": {
+    "site":"Lugar de Memoria el Lago y la Sabana de los Suenos",
+    "location":"Location: San Onofre, Sucre",
+    "type":"Type of site: Representative spot",
+    "identity":"Identity: Peasant",
+    "year":"Reported year of origin: 2018",
+    "link":"Further information: http://redmemoriacolombia.org/site/node/20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.02219,9.85593 ]
+    },
+    "properties": {
+    "site":"Casa de la Cultura y la Memoria de Las Palmas",
+    "location":"Location: San Jacinto, Bolivar",
+    "type":"Type of site: Representative spot",
+    "identity":"Identity: Peasant",
+    "year":"Reported year of origin: 2018",
+    "link":"Further information: http://redmemoriacolombia.org/site/node/19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.120229,9.715732 ]
+    },
+    "properties": {
+    "site":"Museo Itinerante de Memoria y la Identidad de los Montes de Maria",
+    "location":"Location: Carmen de Bolivar, Bolivar",
+    "type":"Type of site: Representative spot",
+    "identity":"Identity: Peasant",
+    "year":"Reported year of origin: 1994",
+    "link":"Further information: https://mimemoria.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.033356,9.584609 ]
+    },
+    "properties": {
+    "site":"Casa de la Memoria de El Salado",
+    "location":"Location: El Salado, Bolivar",
+    "type":"Type of site: Testimony spot",
+    "identity":"Identity: Peasant",
+    "year":"Reported year of origin: 2010",
+    "link":"Further information: http://redmemoriacolombia.org/site/node/15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.52542,8.204365 ]
+    },
+    "properties": {
+    "site":"Centro Social y Comunitario Remanso de Paz",
+    "location":"Location: Pueblo Bello, Antioquia",
+    "type":"Type of site: Representative spot",
+    "identity":"Identity: Peasant",
+    "year":"Reported year of origin: 2014",
+    "link":"Further information: http://redmemoriacolombia.org/site/node/30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.852514,7.067049 ]
+    },
+    "properties": {
+    "site":"Casa de la Memoria y los Derechos Humanos de las Mujeres, Organizacion Femenina Popular",
+    "location":"Location: Barrancabermeja, Santander",
+    "type":"Type of site: Representative spot",
+    "identity":"Identity: Peasant",
+    "year":"Reported year of origin: 2018",
+    "link":"Further information: http://redmemoriacolombia.org/site/node/21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.900405,6.578555 ]
+    },
+    "properties": {
+    "site":"Lugar de Memoria del Atrato",
+    "location":"Location: Bojaya, Choco",
+    "type":"Type of site: Testimony spot",
+    "identity":"Identity: Peasant",
+    "year":"Reported year of origin: 2003",
+    "link":"Further information: http://redmemoriacolombia.org/site/node/10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.556627,6.245942 ]
+    },
+    "properties": {
+    "site":"Museo Casa de la Memoria",
+    "location":"Location: Medellin, Antioquia",
+    "type":"Type of site: Representative spot",
+    "identity":"Identity: Urban",
+    "year":"Reported year of origin: 2009",
+    "link":"Further information: https://www.museocasadelamemoria.gov.co/en/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.186258,6.14453 ]
+    },
+    "properties": {
+    "site":"Salon del Nunca Mas",
+    "location":"Location: Granada, Antioquia",
+    "type":"Type of site: Representative spot",
+    "identity":"Identity: Peasant",
+    "year":"Reported year of origin: 2007",
+    "link":"Further information: https://www.salondelnuncamas.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.992733,6.188176 ]
+    },
+    "properties": {
+    "site":"Centro de Acercamiento para la Reconciliacion",
+    "location":"Location: San Carlos, Antioquia",
+    "type":"Type of site: Representative spot",
+    "identity":"Identity: Peasant",
+    "year":"Reported year of origin: 2006",
+    "link":"Further information: https://memoriadesancarlos.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.081325,4.625628 ]
+    },
+    "properties": {
+    "site":"Museo Nacional de la Memoria",
+    "location":"Location: Bogota",
+    "type":"Type of site: Representative spot",
+    "identity":"Identity: Urban",
+    "year":"Reported year of origin: ",
+    "link":"Further information: http://museodememoria.gov.co/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.07654,4.619027 ]
+    },
+    "properties": {
+    "site":"Centro de Memoria, Paz y Reconciliacion",
+    "location":"Location: Bogota",
+    "type":"Type of site: Representative spot",
+    "identity":"Identity: Urban",
+    "year":"Reported year of origin: 2012",
+    "link":"Further information: http://centromemoria.gov.co/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.321964,4.213729 ]
+    },
+    "properties": {
+    "site":"Parque Monumento de Trujillo",
+    "location":"Location: Trujillo, Valle del Cauca",
+    "type":"Type of site: Representative spot",
+    "identity":"Identity: Peasant",
+    "year":"Reported year of origin: 2002",
+    "link":"Further information: https://afavit.webnode.com.co/parque-monumento/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.63765,4.149365 ]
+    },
+    "properties": {
+    "site":"Colectivo sociojuridico Orlando Fals Borda",
+    "location":"Location: ",
+    "type":"Type of site: Testimony spot",
+    "identity":"Identity: Peasant",
+    "year":"Reported year of origin: 2009",
+    "link":"Further information: https://www.cofb.org.co/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.062819,3.877953 ]
+    },
+    "properties": {
+    "site":"Capilla de la Memoria de Fundescodes",
+    "location":"Location: Buenaventura, Valle del Cauca",
+    "type":"Type of site: Representative spot",
+    "identity":"Identity: Black, Afrocolombian, Raizal and Palenquera",
+    "year":"Reported year of origin: 2009",
+    "link":"Further information: https://redmemoriacolombia.org/site/node/7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.053738,3.841338 ]
+    },
+    "properties": {
+    "site":"Casa de las Mujeres y Hombres de Triana",
+    "location":"Location: Buenaventura, Valle del Cauca",
+    "type":"Type of site: Representative spot",
+    "identity":"Identity: Black, Afrocolombian, Raizal and Palenquera",
+    "year":"Reported year of origin: 2009",
+    "link":"Further information: https://redmemoriacolombia.org/site/node/8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.795231,3.564328 ]
+    },
+    "properties": {
+    "site":"Rutas del peregrinaje de la Memoria de El Castillo.",
+    "location":"Location: Meta",
+    "type":"Type of site: Circuits of Memory",
+    "identity":"Identity: Peasant",
+    "year":"Reported year of origin: 2018",
+    "link":"Further information: https://redmemoriacolombia.org/site/node/26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.770332,1.80458 ]
+    },
+    "properties": {
+    "site":"Casa de la Memoria de la Costa Pacifica Narinense",
+    "location":"Location: Tumaco",
+    "type":"Type of site: Representative spot",
+    "identity":"Identity: Peasant",
+    "year":"Reported year of origin: 2013",
+    "link":"Further information: https://casamemoriatumaco.org/que-es-la-casa-de-la-memoria-de-tumaco/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.587188,1.341495 ]
+    },
+    "properties": {
+    "site":"La Piedra de San Lorenzo, Samaniego",
+    "location":"Location: El Decio, Narino",
+    "type":"Type of site: Representative spot",
+    "identity":"Identity: Peasant",
+    "year":"Reported year of origin: 2008",
+    "link":"Further information: https://redmemoriacolombia.org/site/node/11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.980635,0.469463 ]
+    },
+    "properties": {
+    "site":"Museo de la Memoria Historica Tras las Huellas de El Placer",
+    "location":"Location: Putumayo",
+    "type":"Type of site: Representative spot",
+    "identity":"Identity: Peasant",
+    "year":"Reported year of origin: 2018",
+    "link":"Further information: https://redmemoriacolombia.org/site/node/25"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.612648,1.613916 ]
+    },
+    "properties": {
+    "site":"Museo Caqueta",
+    "location":"Location: Florencia",
+    "type":"Type of site: Representative spot",
+    "identity":"Identity: Peasant",
+    "year":"Reported year of origin: 2009",
+    "link":"Further information: https://redmemoriacolombia.org/site/node/22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.83996,1.336562 ]
+    },
+    "properties": {
+    "site":"Bosque de la Memoria. Cartagena del Chaira",
+    "location":"Location: Cauqeta",
+    "type":"Type of site: Ecological place",
+    "identity":"Identity: Peasant",
+    "year":"Reported year of origin: 2008",
+    "link":"Further information: https://redmemoriacolombia.org/site/node/24"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.752128,-1.433237 ]
+    },
+    "properties": {
+    "site":"La Casa de la Memoria Viva de los Hijos del Tabaco, Coca y Yuca dulce",
+    "location":"Location: La Chorrera, Amazonas",
+    "type":"Type of site: Testimony spot",
+    "identity":"Identity: Indigenous",
+    "year":"Reported year of origin: 2015",
+    "link":"Further information: https://redmemoriacolombia.org/site/node/23"
+    }
+  }
+]
+}

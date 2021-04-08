@@ -1,0 +1,440 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.78802596,10.98357813 ]
+    },
+    "properties": {
+    "sites":"Monumento de los heroes",
+    "location":"Location: Barranquilla, Atlantico. Carrera 43 No. 47 - 53, Comando de Policia Metropolitana.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:2013",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.28140273,9.3379408 ]
+    },
+    "properties": {
+    "sites":"Monumento nuestros heroes",
+    "location":"Location: Corozal, Sucre, Carrera Troncal de Occidente salida a Cartagena, frente al Aeropuerto las Brujas. Escuela de Carabineros Rafael Nunez.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:2006",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.80017802,8.096498153 ]
+    },
+    "properties": {
+    "sites":"Monumento",
+    "location":"Location: Sardinata, Norte de Santander. Km 1 via Sardinata - Cucuta.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:1998",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.48626237,7.882531382 ]
+    },
+    "properties": {
+    "sites":"Monumento de pie por la paz",
+    "location":"Location: Cucuta, Norte de Santander. Avenida Demetrio Mendoza, calle 23 a la 25. Barrio San Mateo.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:2017",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.43153505,7.028676201 ]
+    },
+    "properties": {
+    "sites":"Obiotuario",
+    "location":"Location: Arauquita, Arauca. Calle 4 con avenida 3, barrio Centro.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:2000",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.57758529,6.191353202 ]
+    },
+    "properties": {
+    "sites":"Monumento edificadores de paz",
+    "location":"Location: Parque Museo Inflexion Cra. 45 #15 Sur-172 a 15 Sur-44, Medellin, Antioquia",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:2019",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.7275353,5.928565105 ]
+    },
+    "properties": {
+    "sites":"Museo memorial",
+    "location":"Location: Doradal - Puerto triunfo, Antioquia. Hacienda Napoles, km 165 Autopista Medellin-Bogota.",
+    "type":"Type of site: Museum",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:ND",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.16108944,5.383367746 ]
+    },
+    "properties": {
+    "sites":"Monumento",
+    "location":"Location: Corregimiento de Arboleda, municipio de Pensilvania, Caldas. Parque principal.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:2000",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.45911589,5.612324061 ]
+    },
+    "properties": {
+    "sites":"Monumento al policia guardian",
+    "location":"Location: Aguadas, Caldas. Calle 6 con Carrera 3 frente a la Estacion de Policia.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:2015",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.78518554,5.235995506 ]
+    },
+    "properties": {
+    "sites":"Monumento",
+    "location":"Location: Anserma, Caldas. Calle 18 entre carreras 3 y 4, Plaza de Bolivar.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:2003",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.88709285,5.207938025 ]
+    },
+    "properties": {
+    "sites":"Busto senor teniente Raul Antonio Nauzan Quinonez",
+    "location":"Location: Mariquita, Tolima. Escuela de Aviacion Policial (ESAVI).",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:2014",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.15332537,4.705165715 ]
+    },
+    "properties": {
+    "sites":"Monumento al policia antinarcoticos",
+    "location":"Location: Bogota D.C., Aeropuerto CATAM - Polic�a Nacional, entrada principal de esta Direccion.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:2017",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.10375737,4.6566228 ]
+    },
+    "properties": {
+    "sites":"Monumento al senor brigadier general EDGAR YESID DUARTE VALERO",
+    "location":"Location: Bogota D.C., carrera 68 Bis con diagonal 44. Entrada principal de la E.S.P. Unidad Medica Torre B.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:ND",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.06747008,4.733076538 ]
+    },
+    "properties": {
+    "sites":"Monumento edificadores de paz",
+    "location":"Location: Bogota D.C. Avenida Boyaca No. 142 A - 55, Escuela de Postgrados de Policia - entrada principal.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:2017",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.09806938,4.647679155 ]
+    },
+    "properties": {
+    "sites":"Lugar de Memoria",
+    "location":"Location: Bogota D.C., carrera 59 No. 26-21. Direccion General de la Policia Nacional",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:ND",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.24768874,4.50203259 ]
+    },
+    "properties": {
+    "sites":"Monumento a los comandos",
+    "location":"Location: Sibate, Cundinamarca. Kilometro 20, Escuela de Suboficiales y Nivel Ejecutivo Gonzalo Jimenez de Quesada.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:2009",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.39276789,4.332547772 ]
+    },
+    "properties": {
+    "sites":"Monumento a la senora intendente MARITZA BONILLA RUIZ.",
+    "location":"Location: Fusagasuga, Cundinamarca. Calle 19 No. 50-24, Escuela de Policia Provincia del Sumapaz.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:ND",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.01502141,4.260362242 ]
+    },
+    "properties": {
+    "sites":"Monumento al comando jungla",
+    "location":"Location: San Luis, Tolima. Escuela Internacional del Uso de la Fuerza Policial para la Paz, rotonda del bloque administrativo.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:ND",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.23203721,4.437187333 ]
+    },
+    "properties": {
+    "sites":"Monumento a los policias caidos",
+    "location":"Location: Ibague, Tolima. Carrera 3 con Avenida Ferrocarril, Policia Metropolitana de Ibague.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:2012",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -67.91440465,3.861363945 ]
+    },
+    "properties": {
+    "sites":"Monumento",
+    "location":"Location: Puerto Inirida, Guainia. Avenida Simon Bolivar, kilometro 1 via al aeropuerto.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:ND",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.53001189,3.457418102 ]
+    },
+    "properties": {
+    "sites":"Monumento a la policia nacional",
+    "location":"Location: Cali, Valle. Avenida carrera 3 con calle 15, frente a la Estacion del Mio.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:ND",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.28963327,2.916486975 ]
+    },
+    "properties": {
+    "sites":"Monumento edificadores de paz",
+    "location":"Location: Plazoleta del terminal de trasportes de la ciudad de Neiva",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:ND",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.32445768,2.683790824 ]
+    },
+    "properties": {
+    "sites":"Obelisco",
+    "location":"Location: Campoalegre, Huila. Parque principal.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:ND",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.20976256,2.940460496 ]
+    },
+    "properties": {
+    "sites":"Monumento",
+    "location":"Location: Puerto Rico, Meta. Parque principal de la paz.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:ND",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.64384602,2.569956792 ]
+    },
+    "properties": {
+    "sites":"Monumento",
+    "location":"Location: San Jose del Guaviare, Guaviare. Calle 9 No. 21 - 20, plaza principal del Comando de Policia.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:2004",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.61278257,2.449029755 ]
+    },
+    "properties": {
+    "sites":"Parque de los heroes",
+    "location":"Location: Popayan, Cauca. Carrera 17 con calle 2 Norte. Comando de Policia Cauca.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:ND",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.61137497,1.611434773 ]
+    },
+    "properties": {
+    "sites":"Monumento",
+    "location":"Location: Florencia, Caqueta. Comando Departamento de Policia Caqueta.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:ND",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.23669723,1.258542399 ]
+    },
+    "properties": {
+    "sites":"Monumento edificadores de paz",
+    "location":"Location: plaza central del municipio Mitu-Vaupes",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:2018",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.64916807,1.147432238 ]
+    },
+    "properties": {
+    "sites":"Monumento honor y gloria",
+    "location":"Location: Mocoa, Putumayo. Calle 8 con carrera 8 esquina, Comando de Policia Putumayo.",
+    "type":"Type of site: Monument",
+    "identity":"Identity: The National Police",
+    "year":"Reported year of origin:2015",
+    "link":"Further information: https://memoriahistoricapolicial.wordpress.com/"
+    }
+  }
+]
+}

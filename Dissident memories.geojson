@@ -1,0 +1,50 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.537015,3.447241 ]
+    },
+    "properties": {
+    "site":"Movice Valle",
+    "location":"Location: Cali",
+    "type":"Type of site: Representative spot",
+    "identity":"Identity: Peasant",
+    "year":"Reported year of origin: 2008",
+    "link":"Further information: https://movimientodevictimas.org/en/tag/valle_cauca/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.483969,3.414818 ]
+    },
+    "properties": {
+    "site":"Galeria de la Memoria Tiberio Fernandez Mafla - Fundacion Guagua",
+    "location":"Location: Cali",
+    "type":"Type of site: House/Galery of Memory",
+    "identity":"Identity: Urban",
+    "year":"Reported year of origin: 2007",
+    "link":"Further information https://redmemoriacolombia.org/site/node/9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.641011,4.158516 ]
+    },
+    "properties": {
+    "site":"Galerias y grupo de teatro El Tente.",
+    "location":"Location: Villavicencio, Meta",
+    "type":"Type of site: House/Galery of Memory",
+    "identity":"Identity: Peasant",
+    "year":"Reported year of origin: 2019",
+    "link":"Further information: https://redmemoriacolombia.org/site/node/107"
+    }
+  }
+]
+}
