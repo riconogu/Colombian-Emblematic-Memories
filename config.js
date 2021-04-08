@@ -10,19 +10,52 @@ var config = {
     byline: 'Juan Carlos Rico Noguera',
     footer: 'Source: source citations, etc.',
     chapters: [
+        
         {
-            id: 'introduction',
-            alignment: 'left',
-            hidden: false,
-            title: 'Mapping Colombian Emblematic Memories',
-            image: 'Stock/luchador.jpg',
-            description: 'Introduction to the project',
+            id: 'Prologue',
+            alignment: 'center',
+            hidden: true,
+            title: 'Welcome',
+            description: 'Scroll down to know more about this project!',
             location: {
                 center: [-75.556627, 6.245942],
                 zoom: 4,
                 pitch: 40,
                 bearing: 0
             },
+            
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },       
+
+        {
+            id: 'Introduction',
+            alignment: 'full',
+            hidden: false,
+            title: 'Mapping Colombian Emblematic Memories',
+            image: 'Stock/minisalon.jpg', 
+            description: 'Mapping Colombian Emblematic Memories is an ongoing digital humanities project producing a visual representation of the linkage between popular and influential depictions of the past and place. The emblematic memories the project is mapping are related to the legacies, traumas, and embodied interpretations of the Colombian violence. The map contains a growing amount of sites of memory different social movements and institutions of the state are putting in place. Those physical places have been starting to be enunciated by different stakeholders as more extensive networks we will call infrastructures of remembrance. Mapping Colombian Emblematic Memories is not a project seeking to provide a harmonic picture of the past. The project point at the struggles for recognition various and sometimes conflicting groups are giving against different forms of oblivion, something the project calls politics of memory. Hopefully, mapping the plurality of emblematic memories about the past in Colombia will produce meaningful discussions and solidarities to find alternatives to the Colombian specters of violence and exclusion.',
+            location: {
+                center: [-75.556627, 6.245942],
+                zoom: 4,
+                pitch: 40,
+                bearing: 0
+            },
+            
             mapAnimation: 'flyTo',
             rotateAnimation: false,
             callback: '',
@@ -40,13 +73,46 @@ var config = {
                 // }
             ]
         },
+        
         {
-            id: 'emblematic-memories',
+            id: 'Emblematic-memories 1',
+            alignment: 'left',
+            hidden: false,
+            title: 'Emblematic Memories',
+            image: 'Stock/gettyimages-160316718-2048x2048.jpg',
+            description: 'The historian Steve Stern came up with the concept while studying the Chilean public debate over the meaning of Allende´s Government and Pinochet´s dictatorship. He proposed three archetypes to depict the contentious emblematic memories circulating and clashing in the semipublic and public spheres: heroic memory, dissident memory, and indifferent memory.   Those archetypes, in Stern´s writing, are deeply contextual. However, two of them (heroic and dissident) resonate with the Colombian emblematic memories, which we discuss later. ',
+            location: {
+                center: [-70.67947743, -33.43935179],
+                zoom: 4,
+                pitch: 60,
+                bearing: -43.2
+            },
+            mapAnimation: 'easeTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [
+                 // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+
+
+        {
+            id: 'Emblematic-memories 2',
             alignment: 'right',
             hidden: false,
             title: 'Emblematic Memories',
             image: 'Stock/Museo_de_la_Memoria_y_los_Derechos_Humanos.jpg',
-            description: 'I define embelmatic memories and I provide a reference of Stern',
+            description: 'Emblematic memory is a valuable concept to study socially significant memories. The concept seeks to represent a framework organizing the meaning and the selectivity of a complex assemblage of individual remembrances, values, and experiences. Unlike personal memory, the emblematic memory circulates in public and semipublic spheres, nailing together in a somewhat coherent web of meaning personal stories and experiences. It is also safe to say emblematic memories have a hegemonic impulse seeking to contest rival depictions of the past by arguing the possession over the truth.',
             location: {
                 center: [-70.67947743, -33.43935179],
                 zoom: 16,
@@ -70,12 +136,34 @@ var config = {
                 // }
             ]
         },
+
+      
         {
-            id: 'politics-of-memory',
+            id: 'politics-of-memory1',
             alignment: 'left',
             hidden: false,
             title: 'Infrastructures of Memory and politics of memory',
-            image: 'Stock/Valle de los caidos.jpg',
+            image: 'Stock/españa.jpg',
+            description: 'I introduce both concepts while I also quote',
+            location: {
+                center: [-4.155333711, 40.64187302],
+                zoom: 5,
+                pitch: 60,
+                bearing: -43.2
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+
+        {
+            id: 'politics-of-memory2',
+            alignment: 'right',
+            hidden: false,
+            title: 'Infrastructures of Memory and politics of memory',
+            image: 'Stock/caidos.jpg',
             description: 'I introduce both concepts while I also quote',
             location: {
                 center: [-4.155333711, 40.64187302],
@@ -89,16 +177,17 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
+
         {
-            id: 'Colombian-Inner-Armed-Conflict',
+            id: 'Colombian-violence',
             alignment: 'left',
             hidden: false,
-            title: 'The violence',
-            image: 'Stock/violencia.jpg',
+            title: 'The Colombian violence',
+            image: 'Stock/bojaya.jpg',
             description: 'violence as a national mark',
             location: {
                 center: [-75.556627, 6.245942],
-                zoom: 12,
+                zoom: 4,
                 pitch: 60,
                 bearing: -43.2
             },
