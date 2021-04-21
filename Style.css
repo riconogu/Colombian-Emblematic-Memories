@@ -66,8 +66,16 @@ h3{
 .row{
     padding: 15px;
     margin: 5rem;
-    background-color: rgb(128,128,128);
+    background-color: rgb(128,128,128, 0.2);
     font-size: 20px;
+}
+
+.me{
+    background-image: url('Stock/DSC_0076.jpg');
+    background-attachment: scroll;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
 }
 
 .navbar-brand{
@@ -113,6 +121,10 @@ h3{
     
 }
 
+.card-img-top{
+    height: 350px;
+}
+
 
 
     /* styling paper */
@@ -126,8 +138,30 @@ h3{
     background-color: white;
     box-shadow: 0px 0px 5px 0px #888;
   }
+
+  #paper2 {
+    width: 400px;
+    height: 650px;
+    position: relative;
+    left: 200px;
+    margin: 20px auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: white;
+    box-shadow: 0px 0px 5px 0px #888;
+  }
 /* styling red vertical line */
 #paper::before {
+    content: '';
+    width: 2px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 40px;
+    background-color: rgba(255,0,0,0.6);
+  }
+
+  #paper2::before {
     content: '';
     width: 2px;
     height: 100%;
