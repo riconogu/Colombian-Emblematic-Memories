@@ -52,13 +52,13 @@
                         <div class="container">
                           <div class="row">
                             <div class="col-2">
-                              <img src="Stock\DSC_0088.jpg" height="400" width="550">
+                              <img id= "me" src="Stock\DSC_0088.jpg" height="400" width="550">
                             </div>
                             <div class="col-10">
                               <div id="paper2">
                                 <div id="pattern">
                                     <div id="content">
-                                      <p class="site-desc">I am Juan Carlos Rico Noguera, a fourth-year Ph.D. student in the Department of Anthropology at Michigan State University. My research topics of interest are the <b class="b">state, techno-politics, expertise, and collective memories.</b></p>
+                                      <p class="site-desc">I am Juan Carlos Rico Noguera, a fourth-year Ph.D. student in the Department of Anthropology at Michigan State University. My research topics of interest are <b class="b">the state, techno-politics, expertise, and collective memories.</b></p>
                                       <p>I volunteer some of my free time to Embrace Dialogue (Rodeemos el Diálogo), an organization looking to build and support a culture of dialogue in Colombia. I like to ride my bicycle, dancing, and discovering music with the help of friends and algorithms. Like most of my colleagues, I also love reading. <b class="b">Give me your best recommendation!</b></p>  
                             </div>
                           </div>    
@@ -70,6 +70,49 @@
             </div>
         </div>
     </article>
+    <div class="container">
+      <div class="row2">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <p>Are you interested in knowing more or collaborating? Write to us!</p>
+          <!-- Contact Form - Enter your email address on line 19 of the mail/contact_me.php file to make this form work. -->
+          <!-- WARNING: Some web hosts do not allow emails to be sent through forms to common mail hosts like Gmail or Yahoo. It's recommended that you use a private domain email address! -->
+          <!-- To use the contact form, your site must be on a live web host with PHP! The form will not work locally! -->
+          <form name="sentMessage" id="contactForm" novalidate>
+            <div class="control-group">
+              <div class="form-group floating-label-form-group controls">
+                <label>Name</label>
+                <input type="text" class="form-control" placeholder="Name" id="name" required data-validation-required-message="Please enter your name.">
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="control-group">
+              <div class="form-group floating-label-form-group controls">
+                <label>Email Address</label>
+                <input type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <label>Phone Number</label>
+                <input type="tel" class="form-control" placeholder="Phone Number" id="phone" required data-validation-required-message="Please enter your phone number.">
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="control-group">
+              <div class="form-group floating-label-form-group controls">
+                <label>Message</label>
+                <textarea rows="5" class="form-control" placeholder="Message" id="message" required data-validation-required-message="Please enter a message."></textarea>
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <br>
+            <div id="success"></div>
+            <button type="submit" class="btn btn-primary" id="sendMessageButton">Send</button>
+          </form>
+        </div>
+      </div>
+    </div>
     </article>
     <footer>
       

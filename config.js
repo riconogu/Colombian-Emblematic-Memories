@@ -182,9 +182,9 @@ var config = {
             id: 'Colombian-violence',
             alignment: 'left',
             hidden: false,
-            title: 'The Colombian violence',
+            title: 'Colombian violence',
             image: 'Stock/bojaya.jpg',
-            description: 'violence as a national mark',
+            description: 'Colombian violence is probably one of the most distinctive factors of Colombian national history. It also happens to be the bedrock of this project. The different types of emblematic memory this project is mapping are related to it. They describe the shape of violence through terrifying life experiences, define the wrongdoers and the victims, and sometimes try to explain the persistence of violence over time. The exploration of Colombian violence and its legacies has known many forms: some are academic, others are works of art, and others are improvised recollections becoming archives, small museums, or monuments thanks to the virtues of social organization and mobilization. Most of the efforts these project maps are the product of social organizations seeking reparation and non-repetition for human rights violations coming from different belligerent sides in the midst of Colombian violence. But a significant number is coming from the Colombian state, represented by the National Police.   ',
             location: {
                 center: [-75.556627, 6.245942],
                 zoom: 4,
@@ -203,26 +203,26 @@ var config = {
             hidden: false,
             title: 'A political transition',
             image: 'Stock/teatro colon.jpg',
-            description: 'I introduce both concepts while I also quote',
+            description: 'Colombia is going through what experts in political science, human rights, and international humanitarian law call a political transition. Political transitions imply the transformation of an undemocratic society into a democratic one. In the case of Colombia, the transition means getting rid of political violence through a peace accord. However, due to a complex set of transnational and historical dynamics authors like Priscilla Hayner and Ruti Teitel depict with their research, collective memories related to the conflict get politicized, organized, and mobilized. In other words, the political transition in Colombia, represented here with the picture of President Juan Manuel Santos and the rebel leader Rodrigo Londono in the Colon Theatre after signing a peace accord, implies the resurgence and the collision of different emblematic memories.       ',
             location: {
                 center: [-74.07439864513638, 4.596987426398634],
-                zoom: 12,
+                zoom: 18,
                 pitch: 60,
                 bearing: -43.2
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: false,
+            rotateAnimation: true,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
         },
         {
             id: 'heroic-memory-institutional-memory',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
-            title: 'Heroic(or institutional) memories',
-            image: '',
-            description: 'I introduce both concepts while I also quote',
+            title: 'Heroic (or institutional) memories',
+            image: 'Stock/monumento-edificadores-de-paz-8-.jpeg',
+            description: 'Steve Stern called heroic memory to the assemblage of private experiences and vales, suggesting the Chilean dictatorship resulted from a courageous defense of democratic institutions and justice from communist havoc. Dictatorship, under the interpretation of the heroic memory, was salvation. In Colombia, heroic memory exists as well, with some local variations. Heroic memory in Colombia is the assemblage of private recollections and values stating one of the various armed actors inflicting violence over the civil population and other armed actors was the authentic defender of the nation or the people. Members of the Colombian armed forces call their recollections "institutional memory." In the map this project provides, you will find 29 monuments glorifying the national police efforts to protect the nation and remembering those who "sacrificed" their lives to defend the Colombian people from "their enemies."  You are looking at one of those monuments, located in Neiva and launched in the year 2020.  ',
             location: {
                 center: [-75.28963327, 2.916486975],
                 zoom: 12,
@@ -235,6 +235,27 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
+
+        {
+            id: 'heroic-memory-institutional-memory',
+            alignment: 'right',
+            hidden: false,
+            title: 'Heroic (or institutional) memories',
+            image: 'Stock/10_segunda_announced_image.jpg',
+            description: 'But Colombian heroic memory does not only come from the security forces or a conservative population. It also stems from rebel narratives establishing clear-cut boundaries between "the people" and a corrupt elite. As an example, the declaration of a "second Marquetalia" 21 months after the peace accord signature, or a "second uprising" for those who are unfamiliar with Colombian history, display a narrative in which the rebels occupy the position of heroic individuals who were deceived by an irredeemable corrupt elite. This map has no data available of "this side" of the heroic memory. However, no one should be surprised by this fact. If Colombia had monuments of rebels, as it does of the police, they would not be rebels; they would be national heroes! ',
+            location: {
+                center: [-70.65140906416035, 7.084784966781466],
+                zoom: 12,
+                pitch: 60,
+                bearing: -43.2
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+
         {
             id: 'dissident-memory',
             alignment: 'left',
