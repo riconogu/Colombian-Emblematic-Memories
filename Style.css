@@ -9,9 +9,15 @@ body {
     font-family: 'Robot Mono';
     background-color: rgb(40,40,40);
 }
+.special{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Robot Mono';
+    background-color: white;
+}
 
 .site-title, .site-desk{
-    color:rgb(170, 26, 26);
+    color:rgb(182, 29, 29);
     font-family: 'Robot Mono';
     background-color:  	rgb(40,40,40);
     display: block;
@@ -29,6 +35,8 @@ body {
 
 .instructions{
     background-color: whitesmoke;
+    margin: 1.5rem;
+    padding: 15px;
 }
 
 h1{
@@ -39,7 +47,7 @@ h1{
 
 
 h2{
-    color: rgb(170, 26, 26);
+    color: rgb(182, 29, 29);
     text-align: center;
     background-color: rgb(40,40,40);
     margin: 5rem;
@@ -50,7 +58,7 @@ h2{
 h3{
     color:goldenrod;
     text-align: center;
-    background-color: rgb(170, 26, 26);
+    background-color: rgb(182, 29, 29);
     margin: 0%;
 }
 
@@ -77,6 +85,12 @@ h3{
     font-size: 20px;
 }
 
+.colesp{
+    position: relative;
+    top: 10px;
+    left: 418px;
+}
+
 .me{
     background-image: url('Stock/DSC_0076.jpg');
     background-attachment: scroll;
@@ -88,7 +102,7 @@ h3{
 .navbar-brand{
     font-family: 'Robot Mono';
     font-size: 35px;
-    color: rgb(170, 26, 26) !important;  
+    color: rgb(182, 29, 29) !important;  
     display: block;
 
 }
@@ -150,7 +164,7 @@ h3{
   }
 
   #paper2 {
-    width: 400px;
+    width: 450px;
     height: 650px;
     position: relative;
     left: 200px;
