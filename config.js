@@ -6,7 +6,7 @@ var config = {
     theme: 'dark',
     use3dTerrain: false,
     title: 'Mapping Colombian Emblematic Memories',
-    subtitle: 'Politics of memory in a never-ending violent post-conflict',
+    subtitle: 'A conceptual journey to understand Colombian politics of memory',
     byline: 'Juan Carlos Rico Noguera',
     footer: 'Sources: Hayner, P. (2011). Unspeakable Truths Transitional Justice and the Challenge of Truth Commissions. Routledge---  Rubin, Jonah S. 2018How Francisco Franco Governs from beyond the Grave: An Infrastructural Approach to Memory Politics in Contemporary Spain. American Ethnologist 45(2): 214–227 --- Stern, Steve 2004 Remembering Pinochet’s Chile. Durham, NC: Duke University Press ---  Teitel, Ruti 2003 Transitional Justice Genealogy. Harvard Human Rights Journal 16: 69–94. ',
     chapters: [
